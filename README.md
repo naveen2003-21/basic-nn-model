@@ -48,8 +48,8 @@ Evaluate the model with the testing data.
 ## PROGRAM
 
 ```
-DEVELOPED BY : VISHAL GOWTHAMAN K R
-REG NO : 212221230123
+DEVELOPED BY : NAVEEN KUMAR A
+REG NO : 212221240032
 ``` 
 ```
 from google.colab import auth
